@@ -5,3 +5,5 @@
 # QRCode of my wechat
 
 ![](https://img-blog.csdnimg.cn/20181212121551779.jpg)
+# detail in chinese
+[here](https://blog.csdn.net/King_DJF/article/details/86477279)
